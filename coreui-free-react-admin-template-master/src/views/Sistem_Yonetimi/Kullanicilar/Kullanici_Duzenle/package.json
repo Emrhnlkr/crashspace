@@ -1,0 +1,7 @@
+{
+    "name": "kullanici_duzenle",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Kullanici_Duzenle.js"
+  }
+  

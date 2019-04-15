@@ -1,0 +1,6 @@
+{
+  "name": "Sigorta_Sirketi",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Sigorta_Sirketi.js"
+}

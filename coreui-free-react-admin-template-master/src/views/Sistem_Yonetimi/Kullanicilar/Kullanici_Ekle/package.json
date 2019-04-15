@@ -1,0 +1,7 @@
+{
+    "name": "kullanici_ekle",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Kullanici_Ekle.js"
+  }
+  
